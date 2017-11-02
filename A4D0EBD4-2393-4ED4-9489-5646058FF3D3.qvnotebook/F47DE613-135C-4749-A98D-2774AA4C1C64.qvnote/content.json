@@ -1,0 +1,9 @@
+{
+  "title": "Design critique",
+  "cells": [
+    {
+      "type": "markdown",
+      "data": "Facebook 设计团队是怎么做 design critique 的？\n\n何如佳：我刚到公司的时候，每个月都有一次设计师全员大会。每次有一个小组展示他们最近的设计，这样有助于全公司设计师互相了解大家都在做什么。公司鼓励大家在设计还在早期的时候就向大家展示，获得一些早期设计大方向上的建议。根据展示的设计所处的产品周期不同，大家也会针对性地给不同的建议。一些设计细节上的建议，大家一般会在自己所在的小组的会议中去提出。\n\n张挠挠：你觉得要做好一个 design critique，设计师应该要做好什么准备？\n\n何如佳：我觉得最重要的一点是设计师要带着明确的目的走进一次 design critique 的会议。比如，是想要视觉设计上的、交互流程上的、还是产品方向上的，或者是针对界面中的某个按钮文字的建议？做展示的设计师需要主动明确地说清楚你的目的，这样有利于获得有针对性、建设性的反馈。\n\nFacebook 的设计师 Tanner Christensen 在 Medium 上写过一篇文章《Peek Inside a Facebook Design Critique》，还原了真实发生在 Facebook 的一次 design critique，很有意思，我觉得很值得大家参考。\n\n[Facebook 资深设计师何如佳：当扎克伯格是你的产品经理时](http://www.uisdc.com/when-zuckerberg-was-a-pm)"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Quiver",
+  "cells": [
+    {
+      "type": "markdown",
+      "data": "- 笔记类应用，为程序员做笔记而设计。以cell形式组织文本，能够轻便地混合「code」与「text」。\n- 独立开发者开发\n- 开发者 [Lian Yaogang](http://yaoganglian.com/2015/12/06/What-is-Quiver/)\n\n> user review：Take a certain famous notetaking app, remove its total dependence on a web service, and add features that power users and developers beg for (markdown, code syntax highlighting, comprehensive keyboard shortcuts, LaTeX, documented and legible database format). Do all this with efficiency and thoughtful design. That’s what Quiver is.\n\n开发者自述：[What is Quiver? | Yaogang Lian](http://yaoganglian.com/2015/12/06/What-is-Quiver/)\n\n----\n农人：\n\n支持markdown，书写和排版体验好于苹果自带的 Note。\n有一级目录，比 Macdown、typora、Mou 这类纯 Markdown 编辑器，更便于组织笔记\n相比 Ulysses、MWeb，又更加轻便\n体验很不错！\n\n功能不完善之处：无法通过 iCloud 同步，期待早日上线！\n"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Udacity intro to AI Lesson1",
+  "cells": [
+    {
+      "type": "markdown",
+      "data": "# Lesson 1\n\n## key application of AI\n\n- Finance\n- robotics\n- game\n- medicine\n- the web\n\n## intelligent agent\n\nPerception-action circle\n\nenvironment -> sensor(感知器) -> agent -> decision making -> actuator（执行器） -> environment\n\npic：![classroom.udacity.com_courses_cs271_lessons_48688925_concepts_487421730923 (2).png](quiver-image-url/D63BAC2FD2A4495D4CB88459BF1388F4.png =545x289)\n\n## four key attribute of AI\n\n- fully observable(完全可观测) vs partially observable（need memory；部分可观测）\n- deterministic（确定性） vs stochastic（随机形）\n- discrete（离散） vs continuous（连续）\n- benign（良性） vs adversarial（对抗性）\n\n## AI as uncertainty management\n\nAI make desicions for people when they don't know what to do (uncertainty)\n\nreasons for uncertainty\n\n- sensor limits\n- adversaries\n- stochastic environments\n- laziness\n- ignorance\n\n\n## rationality\n\n以 machine translation 为例\n\n- translation model：比较已有的原文与译文文本，建立原文与译文的 correspondence\n- translation：寻找模型中最匹配的译文，翻译新文本\n\n\n\n"
+    }
+  ]
+}

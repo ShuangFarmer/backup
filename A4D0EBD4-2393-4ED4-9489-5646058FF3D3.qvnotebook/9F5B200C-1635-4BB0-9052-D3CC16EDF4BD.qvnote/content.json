@@ -1,0 +1,9 @@
+{
+  "title": "IP\\UV\\PV",
+  "cells": [
+    {
+      "type": "markdown",
+      "data": "IP： internet protocol，独立IP数。00：00 - 24：00 内相同IP地址算作1次\nPV：page view，页面浏览量or点击量，用户每刷新一次即被计算一次\nUV：unique visitor，访问网站的电脑客户端的数量。00：00 - 24：00 内相同客户端被算作1次"
+    }
+  ]
+}
